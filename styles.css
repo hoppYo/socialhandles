@@ -9,6 +9,11 @@ body {
   width: 100%;
   max-width: 300px;
   padding: 10px;
+  
+  font-family: "Akatab", serif;
+  font-weight: 900;
+  font-style: normal;
+  
 }
 .header {
   display: flex;
